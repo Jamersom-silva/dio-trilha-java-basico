@@ -37,8 +37,8 @@ sua agência é 067-8, conta 1021 e seu saldo 237.48 já está disponível para 
 
 text
 
-## 👨‍💻 Autor
-[Seu nome]
+
 
 ## 📄 Licença
+
 Este projeto está sob a licença MIT.
